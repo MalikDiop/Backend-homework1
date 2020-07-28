@@ -51,3 +51,4 @@ Bonus
 Add additional user input questions 25 pts
 Add a gif to showcase your work 25 pts
 
+![](https://media2.giphy.com/media/U6LOdBK2qzpi8tJx7s/giphy.gif)
