@@ -50,3 +50,5 @@ Backend Functionality: 30 pts
 Bonus
 Add additional user input questions 25 pts
 Add a gif to showcase your work 25 pts
+
+![giphy](https://user-images.githubusercontent.com/66703987/88697970-6d616e00-d0d3-11ea-82ca-6fcb9cf285f5.gif)
