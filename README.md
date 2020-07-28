@@ -47,7 +47,7 @@ Homework Rubric:
 
 Backend Functionality: 30 pts
 
-Bonus
+#Bonus
 Add additional user input questions 25 pts
 Add a gif to showcase your work 25 pts
 
