@@ -34,7 +34,8 @@ inquirer
 // If passwords match, then success log will be displayed and a userPassword.txt file will be created holding user password 
     if (response.confirm === response.password) {
         console.log("Success!");
-      
+
+        
 fs.writeFileSync('userPassword.txt', JSON.stringify(response.password), function(err){
 
 });
